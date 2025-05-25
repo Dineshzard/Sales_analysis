@@ -3,7 +3,7 @@
 This project performs basic sales data analysis using Pandas and NumPy.
 
 ## ✅ Features
-- Add dataset: `sales_data.csv` 
+- Add dataset: `datset - Sheet1.csv` 
 - Cleans and processes sales data
 - Sums sales by region
 - Calculates average sales per product
